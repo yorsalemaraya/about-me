@@ -38,6 +38,9 @@ a.mailVerde{
     display: inline-block
     
 }
+.subtitulo{
+    font-family: 'Rubik', sans-serif;
+}
  footer{
   
    padding-left: 12px ;
@@ -141,6 +144,8 @@ input{
             margin-left: 24px;
             min-width: 300px;
     }
-
+main{
+    max-width: 900px;
+}
 
 
