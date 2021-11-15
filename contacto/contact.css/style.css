@@ -84,6 +84,7 @@ form{
 input{
     width: 100%;
     padding: 10px 10px;
+    border-style: none;
    
 }
 #subject{
@@ -112,7 +113,10 @@ input{
 #enviar{
     margin-top: 12px;
     text-align: center;
+    background-color: rgb(90, 206, 142);
+   
 }
+  
 
 @media all and (min-width: 600px) {
     body{
